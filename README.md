@@ -21,7 +21,7 @@ Projekt do działania wymaga zainstalowanego środowiska **Node.js** (zalecana w
 ### Krok 4. Instalacja zależności
 W otwartym terminalu wpisz następujące polecenie i naciśnij *Enter*, aby automatycznie pobrać wszystkie wymagane pakiety i biblioteki:
 ```bash
-npm install
+npm install "
 
 
 ### Krok 5. npm run dev
